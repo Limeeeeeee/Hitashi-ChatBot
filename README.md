@@ -50,31 +50,24 @@ AI chatbots are transforming how users interact with websites and businesses. Th
    ```bash
    git clone https://github.com/yourusername/ai-chatbot
    cd ai-chatbot
-Open index.html in your browser.
+2. Open `index.html` in your browser.
+3. Make sure to replace `YOUR_API_KEY` in the JavaScript file with your actual **Gemini/OpenAI API key**.
 
-Make sure to replace YOUR_API_KEY in the JavaScript file with your actual Gemini/OpenAI API key.
+---
 
-📸 Demo Screenshot
-(Add a screenshot here if available)
+## 🧠 Future Improvements
 
-🧠 Future Improvements
-Chat history persistence
+- Chat history persistence  
+- Typing animations  
+- Voice input/output  
+- Custom chatbot personalities  
+- Dark mode toggle  
 
-Typing animations
+---
 
-Voice input/output
+## 🙋‍♂️ Who Is This For?
 
-Custom chatbot personalities
-
-Dark mode toggle
-
-🙋‍♂️ Who Is This For?
-Developers learning API integration
-
-Students building frontend projects
-
-Business owners adding automation to their websites
-
-Anyone interested in building their own ChatGPT-like chatbot
-
-
+- Developers learning API integration  
+- Students building frontend projects  
+- Business owners adding automation to their websites  
+- Anyone interested in building their own **ChatGPT-like chatbot**
